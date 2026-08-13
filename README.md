@@ -27,7 +27,7 @@ An interactive memory puzzle game built with Arduino. The system generates incre
 
 ## Pin Mapping 
 
-| Component | Arduino Pin | Function / Description |
+| Component | Arduino Pin | Description |
 | :--- | :--- | :--- |
 | **Red LED** | Pin 10 | Visual indicator for Red choice |
 | **Green LED** | Pin 3 | Visual indicator for Green choice |
